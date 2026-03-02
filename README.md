@@ -1,6 +1,6 @@
 # Windows Network Packet Sniffer and Protocol Logger Using WinDivert
 
-**Packet Monster** is a lightweight Windows packet sniffer built with the [WinDivert](https://reqrypt.org/windivert.html) library. It captures **inbound TCP/UDP packets**, extracts source and destination IP addresses and ports, and guesses the **application protocol** (like HTTP, DNS, SSH) based on well-known ports all in real time!
+**Packet Sniffer** is a lightweight Windows packet sniffer built with the [WinDivert](https://reqrypt.org/windivert.html) library. It captures **inbound TCP/UDP packets**, extracts source and destination IP addresses and ports, and guesses the **application protocol** (like HTTP, DNS, SSH) based on well-known ports all in real time!
 
 
 ## Özellikler / Features
@@ -22,7 +22,7 @@
 
 ## Kullanım / Usage
 [TR]
-1. `packet_monster.exe` yi yönetici olarak çalıştırın.
+1. `packetsniffer.exe` yi yönetici olarak çalıştırın.
 
 [ENG]
 1. Run as Administrator: Right-click → "Run as administrator"
@@ -38,6 +38,7 @@ MIT License © 2025 camazota
 ## İletişim / Contact
 
 akbasd507@gmail.com
+
 
 
 
