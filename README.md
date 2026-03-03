@@ -1,4 +1,4 @@
-# Windows Network Packet Sniffer and Protocol Logger Using WinDivert
+# Windows Packet Sniffer and Protocol Logger
 
 **Packet Sniffer** is a lightweight Windows packet sniffer built with the [WinDivert](https://reqrypt.org/windivert.html) library. It captures **inbound TCP/UDP packets**, extracts source and destination IP addresses and ports, and guesses the **application protocol** (like HTTP, DNS, SSH) based on well-known ports all in real time!
 
@@ -31,13 +31,14 @@
 
 ## Lisans / License
 
-MIT License © 2025 camazota
+MIT License © 2025 eserakbaas
 
 ---
 
 ## İletişim / Contact
 
-akbasd507@gmail.com
+eserakbaas@gmail.com
+
 
 
 
